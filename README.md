@@ -1,3 +1,5 @@
+<img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=young_min&animation=fadeIn&fontColor=ffffff />
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=young_min&animation=fadeIn&fontColor=ffffff)
 <!--
 참고 주소 : https://github.com/kyechan99/capsule-render
