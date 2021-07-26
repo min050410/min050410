@@ -3,7 +3,7 @@
 참고 주소 : https://github.com/kyechan99/capsule-render
 -->
 <div align = "center">
-    <h2 align = "center">✔github</h2>
+    <h2 align = "center">github✔</h2>
     <img
         src="https://img.shields.io/github/followers/min050410?style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
