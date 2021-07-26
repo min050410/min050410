@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=young_min&animation=fadeIn&fontColor=ffffff&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=young_min&animation=fadeIn&fontColor=ffffff&desc=Desc&descAlign=20)
 <!--
 참고 주소 : https://github.com/kyechan99/capsule-render
 -->
