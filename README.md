@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=youngmin&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&text=Young%20min&animation=fadeIn&fontColor=ffffff&fontSize=80)
 <!--
 참고 주소 : https://github.com/kyechan99/capsule-render
 -->
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 
-</p>
+<!--</p>
 <div>
 <a href="https://www.instagram.com/min050410/">
     <img align = "center"
@@ -27,6 +27,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
+
+-->
 
 
 
