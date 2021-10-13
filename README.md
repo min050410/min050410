@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp
 </p>
+</h2>
 <h2 align = "center">⚒Techs that I've used at least once 🛠</h2>
 
 <p align="center">
@@ -45,6 +46,7 @@
 <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
 </p>
+</h2>
 <h2 align = "center">certificate📑</h2>
 <p align ="center">
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp
@@ -58,6 +60,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp -->
 </p>
+</h2>
 <!--
 <div>
 <a href="https://www.instagram.com/min050410/">
@@ -65,9 +68,17 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-</div>
+</div>-->
+<h2 align = "center">speed typer⌨️</h2>
+<p align ="center">
 
--->
+<img src="https://api.speedtyper.dev/users/min050410/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">
+<img src="https://api.speedtyper.dev/users/min050410/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">
+<img src="https://api.speedtyper.dev/users/min050410/badges/gamecount" alt="SpeedTyper.dev games" height="25">
+
+</p>
+</h2>
+
 
 
 
