@@ -69,7 +69,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>-->
-<h2 align = "center">speed typer⌨️</h2>
+<!-- <h2 align = "center">speed typer⌨️</h2>
 <p align ="center">
 
 <img src="https://api.speedtyper.dev/users/min050410/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">
@@ -77,7 +77,7 @@
 <img src="https://api.speedtyper.dev/users/min050410/badges/gamecount" alt="SpeedTyper.dev games" height="25">
 
 </p>
-</h2>
+</h2> -->
 
 
 
