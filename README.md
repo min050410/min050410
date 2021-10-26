@@ -1,3 +1,5 @@
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Young%20min&fontSize=70&animation=fadeIn&fontAlignY=38&desc=developer&descAlignY=52&descAlign=62" width="100%">
 <!--
 참고 주소 : https://github.com/kyechan99/capsule-render
@@ -25,6 +27,8 @@
 </h2>
 <br>
 <h2 align="center">I've used at least once</h2>
+    <details>
+    <summary align="center"></summary>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /></a>&nbsp
@@ -47,7 +51,9 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white" /></a>&nbsp
 </p>
-</h2>
+</details>
+
+
 <br>
 <h2 align="center">Certificate</h2>
 <p align="center">
