@@ -28,7 +28,7 @@
 <br>
 <h2 align="center">I've used at least once</h2>
     <details>
-    <summary align="center"></summary>
+    <summary align="center"> look it !</summary>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /></a>&nbsp
