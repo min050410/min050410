@@ -28,7 +28,7 @@
 </p>
 </h2>
 <br>
-<h2 align="center">I've used at least once</h2>
+<h2 align="center">SubTechs</h2>
     <details>
     <summary align="center"> look it !</summary>
 <p align="center">
@@ -50,7 +50,6 @@
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white" /></a>&nbsp
     <img
         src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white" /></a>&nbsp
 </p>
 </details>
