@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>&nbsp <br>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" /></a>&nbsp 
     <img src="https://img.shields.io/badge/Ubuntu-003B57?style=flat-square&logo=Ubuntu&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>&nbsp
@@ -32,24 +33,19 @@
     <details>
     <summary align="center"> look it !</summary>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>&nbsp <br>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Ubuntu&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=Jinja&logoColor=white" /></a>&nbsp
+    <br>
     <img
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" /></a>&nbsp <br>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white" /></a>&nbsp
     <img
         src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /></a>&nbsp
+    <br>
     <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white" /></a>&nbsp
 </p>
 </details>
