@@ -67,12 +67,13 @@
 
 <h2 align="center">Contact</h2>
 <div align="center">
+    <a href="https://pond-cheshire-bae.notion.site/young-min-3ceea45d28bd4eddb465e8ecfa0539f2">
     <img src="https://img.shields.io/badge/Intro-link-white?logo=notion&style=for-the-badge"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
+    <a href="https://pond-cheshire-bae.notion.site/young-min-3ceea45d28bd4eddb465e8ecfa0539f2">
     <a href="https://devlog.kro.kr">
     <img src="https://img.shields.io/badge/Devlog-link-black?logo=blog&style=for-the-badge"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
-    <a href="https://devlog.kro.kr">
 </div>
 </h2>
 
