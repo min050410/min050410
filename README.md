@@ -63,6 +63,7 @@
         src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white" /></a>&nbsp
 </p>
 </h2>
+<br>
 
 <h2 align="center">etc</h2>
 <div align="center">
