@@ -4,6 +4,7 @@
 <!--
 참고 주소 : https://github.com/kyechan99/capsule-render
 -->
+
 <div align="center">
     <h2 align="center">Github</h2>
     <img src="https://img.shields.io/github/followers/min050410?style=social"
@@ -61,6 +62,17 @@
     <img
         src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white" /></a>&nbsp
 </p>
+</h2>
+
+<h2 align="center">etc</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/Intro-link-white?logo=notion&style=for-the-badge"
+        style="height : auto; margin-left : 10px; margin-right : 10px;" />
+    <a href="https://devlog.kro.kr">
+    <img src="https://img.shields.io/badge/Devlog-link-black?logo=blog&style=for-the-badge"
+        style="height : auto; margin-left : 10px; margin-right : 10px;" />
+    <a href="https://devlog.kro.kr">
+</div>
 </h2>
 
 
