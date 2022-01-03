@@ -65,7 +65,7 @@
 </h2>
 <br>
 
-<h2 align="center">etc</h2>
+<h2 align="center">Contact</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Intro-link-white?logo=notion&style=for-the-badge"
         style="height : auto; margin-left : 10px; margin-right : 10px;" />
