@@ -6,15 +6,16 @@
 -->
 
 <div align="center">
-    <h2 align="center">Github</h2>
-    <img src="https://img.shields.io/github/followers/min050410?style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;" />
-    <a href="https://hits.seeyoufarm.com"><img
-            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin050410&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></a>
-    </h2>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=min050410&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+    
 </div>
-<br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min050410)](https://solved.ac/min050410)
+
+![min050410's GitHub stats](https://github-readme-stats.vercel.app/api?username=min050410&show_icons=true&theme=dark)
+    
 <h2 align="center">Techs</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /></a>&nbsp
@@ -24,13 +25,9 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></a>&nbsp <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" /></a>&nbsp 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /></a>&nbsp <br>
-    <img src="https://img.shields.io/badge/Ubuntu-003B57?style=flat-square&logo=Ubuntu&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>&nbsp
-    
-    
 </p>
 </h2>
 <br>
@@ -40,16 +37,13 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Ubuntu&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=Jinja&logoColor=white" /></a>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white" /></a>&nbsp
     <img
         src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /></a>&nbsp
     <br>
-    <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white" /></a>&nbsp
 </p>
 </details>
 
@@ -66,6 +60,16 @@
 <br>
 
 </h2>
+
+<div align="right">
+    <h3 align="center"></h3>
+<!--     <img src="https://img.shields.io/github/followers/min050410?style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;" /> -->
+    <a href="https://hits.seeyoufarm.com"><img
+            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin050410&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" /></a>
+    </h2>
+</div>
+<br>
 
 
 <!--
