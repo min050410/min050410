@@ -8,10 +8,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:13547a,100:8E54E9&fontColor=f7f5f5&height=210&section=header&text=Young%20min&fontSize=60&animation=fadeIn&fontAlignY=38&desc=developer&descAlignY=52&descAlign=62" width="85%">
     
   [![trophy](https://github-profile-trophy.vercel.app/?username=min050410&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
+    
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min050410)](https://solved.ac/min050410)
-    ![min050410's GitHub stats](https://github-readme-stats.vercel.app/api?username=min050410&show_icons=true&theme=github_dark&hide_title=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=min050410&show_icons=true&theme=github_dark&hide_title=true&hide_rank=false" width="50%">
 <!--      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min050410&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
