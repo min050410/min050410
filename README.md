@@ -1,20 +1,20 @@
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Young%20min&fontSize=70&animation=fadeIn&fontAlignY=38&desc=developer&descAlignY=52&descAlign=62" width="100%">
 <!--
 참고 주소 : https://github.com/kyechan99/capsule-render
 -->
 
-<div align="center">
+<div align="center" style="text-align:center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=min050410&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:13547a,100:8E54E9&fontColor=f7f5f5&height=210&section=header&text=Young%20min&fontSize=60&animation=fadeIn&fontAlignY=38&desc=developer&descAlignY=52&descAlign=62" width="85%">
     
+  [![trophy](https://github-profile-trophy.vercel.app/?username=min050410&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min050410)](https://solved.ac/min050410)
+    ![min050410's GitHub stats](https://github-readme-stats.vercel.app/api?username=min050410&show_icons=true&theme=github_dark&hide_title=true)
+<!--      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min050410&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min050410)](https://solved.ac/min050410)
-
-![min050410's GitHub stats](https://github-readme-stats.vercel.app/api?username=min050410&show_icons=true&theme=dark)
     
 <h2 align="center">Techs</h2>
 <p align="center">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></a>&nbsp <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /></a>&nbsp <br>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" /></a>&nbsp
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>&nbsp
 </p>
 </h2>
