@@ -6,12 +6,12 @@
 코드를 작성할 때 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다.  
 웹 풀스택 개발자이지만 서버쪽에 관심이 있으며, 다양한 프로젝트를 개발하였습니다.
 
+* [Bssmh-Portfolio](https://github.com/qkrjh0904/bssmh-portfolio): 부산소마고 공식 포트폴리오 웹사이트
 * [Novel-Cloud](https://github.com/Novel-Cloud/server): 일러스트, 만화, 소설 등을 올리고 공유하는 서비스
 * [TechBlog](https://github.com/min050410/TechBlog): Gatsby로 제작한 기술 블로그
 * [TCP](https://github.com/T-shaped-People/TCP-Backend): 영상 통화, 채팅, 알림 기능 등이 적용된 팀 협업 플랫폼
 * [RecipeGPT](https://github.com/Recipe-GPT/server): OpenAI를 사용해 음식 레시피를 만들어주는 서비스
 * [RE-CODE](https://github.com/2022-RE-CODE/2022-RE-CODE-FrontEnd): 작고 소중한 주니어 개발자들을 위한 코드리뷰 서비스
-* [Bssmh-Portfolio](https://portfolio.bssm.io/): 부산소마고 공식 포트폴리오 웹사이트
 
 다음은 제가 사용하는 기술들입니다.
 - server
