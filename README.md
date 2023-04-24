@@ -6,7 +6,7 @@
 코드를 작성할 때 고민하며 사용자와 개발팀에게 최고의 가치를 전달할 수 있도록 노력합니다.  
 웹 풀스택 개발자이지만 서버쪽에 관심이 있으며, 다양한 프로젝트를 개발하였습니다.
 
-* [Bssmh-Portfolio](https://github.com/qkrjh0904/bssmh-portfolio): 부산소마고 공식 포트폴리오 웹사이트
+* [Bssmh-Portfolio](https://portfolio.bssm.io/): 부산소마고 공식 포트폴리오 웹사이트
 * [Novel-Cloud](https://github.com/Novel-Cloud/server): 일러스트, 만화, 소설 등을 올리고 공유하는 서비스
 * [TechBlog](https://github.com/min050410/TechBlog): Gatsby로 제작한 기술 블로그
 * [TCP](https://github.com/T-shaped-People/TCP-Backend): 영상 통화, 채팅, 알림 기능 등이 적용된 팀 협업 플랫폼
